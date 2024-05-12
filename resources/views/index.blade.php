@@ -17,10 +17,10 @@
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css" />
 
 
-  <link rel="stylesheet" href="{{asset('assets/css/all.min.css')}}">
-  <link rel="stylesheet" href="{{asset('assets/css/bootstrap.min.css')}}">
-  <link rel="stylesheet" href="{{asset('assets/css/main.css')}}">
-  <link rel="stylesheet" href="{{asset('assets/style.css')}}">
+  <link rel="stylesheet" href="{{asset('public/assets/css/all.min.css')}}">
+  <link rel="stylesheet" href="{{asset('public/assets/css/bootstrap.min.css')}}">
+  <link rel="stylesheet" href="{{asset('public/assets/css/main.css')}}">
+  <link rel="stylesheet" href="{{asset('public/assets/style.css')}}">
 </head>
 
 <body>
