@@ -17,10 +17,10 @@
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css" />
 
 
-  <link rel="stylesheet" href="{{asset('public/assets/css/all.min.css')}}" type="text/css">
-  <link rel="stylesheet" href="{{asset('public/assets/css/bootstrap.min.css')}}" type="text/css">
-  <link rel="stylesheet" href="{{asset('public/assets/css/main.css')}}" type="text/css">
-  <link rel="stylesheet" href="{{asset('public/assets/style.css')}}" type="text/css">
+  <link rel="stylesheet" href="https://drive.google.com/file/d/1gMrIbe58YctG7r6kcAVfR0fGtM8FyngP/view?usp=sharing" >
+  <link rel="stylesheet" href="https://drive.google.com/file/d/1hgz6M5K4fQdA5FsxvNd-eRXyLH9odSZ0/view?usp=sharing" >
+  <link rel="stylesheet" href="https://drive.google.com/file/d/1-mvZGXSyD2Ar1vHbSAcn-h5d_t4SJGeC/view?usp=sharing" >
+  <link rel="stylesheet" href="https://drive.google.com/file/d/1V4JjGPT29c6uBGk9Ej_BsEWX7f9fzJt7/view?usp=sharing">
 </head>
 
 <body>
@@ -510,8 +510,8 @@
   </div>
 
 
-  <script src="{{asset('assets/script.js')}}"></script>
-  <script src="{{asset('assets/js/bootstrap.bundle.js')}}"></script>
+  <script src="https://drive.google.com/file/d/1PgRKcEfqOuG2H7FBx_6HsukYG8QLTwqm/view?usp=sharing"></script>
+  <script src="https://drive.google.com/file/d/1JtQdv7oo0npCC4jjD3UsX4o4ZAOFIOfG/view?usp=sharing"></script>
 
 </body>
 
