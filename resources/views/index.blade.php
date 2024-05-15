@@ -57,7 +57,7 @@
       <i class="uil uil-times form_close"></i>
       <!-- Login From -->
       <div class="form login_form">
-        <form method="POST" action="{{ route('login') }}">
+        <form method="POST" action="https://evening-refuge-75348-e90d99f3c7d9.herokuapp.com/login">
             @csrf
           <h2>Login</h2>
 
@@ -87,7 +87,7 @@
 
       <!-- Signup From -->
       <div class="form signup_form">
-        <form method="POST" action="{{route('register')}}">
+        <form method="POST" action="https://evening-refuge-75348-e90d99f3c7d9.herokuapp.com/register">
             @csrf
           <h2>Signup</h2>
 
@@ -169,7 +169,7 @@
 
        -->
 
-      <form method="POST" action="{{url('/predict')}}" class=" w-100 row-gap-2" id="form-data">
+      <form method="POST" action="https://evening-refuge-75348-e90d99f3c7d9.herokuapp.com/predict" class=" w-100 row-gap-2" id="form-data">
             @csrf
         <div class="row ">
           <div class="col-md-3">
