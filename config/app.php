@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'https://evening-refuge-75348-e90d99f3c7d9.herokuapp.com'),
 
     /*
     |--------------------------------------------------------------------------
